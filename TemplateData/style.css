@@ -1,4 +1,15 @@
-h1 {
+body {
+  
+  background-color: black;
+  padding: 16px;
+  
+}
+
+h1.title, h2.title {
+  
   text-align: center;
+  
   font-size: 48px;
+  color: #7CFC00
+  
 }
