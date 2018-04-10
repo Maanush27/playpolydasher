@@ -10,6 +10,10 @@ h1.title, h2.title {
   text-align: center;
   
   font-size: 48px;
-  color: #7CFC00
+  color: #7CFC00;
   
+}
+
+li {
+  color: #7CFC00;
 }
